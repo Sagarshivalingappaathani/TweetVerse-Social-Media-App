@@ -5,13 +5,13 @@ This website is a social media platform that resembles Twitter, developed using 
 
 ### Website Screenshots
 - Home Page 
-![](Screenshots/home.png)
+![](screenshots/home.png)
 
 - User Profile Page
-![](Screenshots/profile.png)
+![](screenshots/profile.png)
 
 - Creating Post
-![](Screenshots/createpost.png)
+![](screenshots/createpost.png)
 
 Follow these steps to set up and run the project locally.
 
