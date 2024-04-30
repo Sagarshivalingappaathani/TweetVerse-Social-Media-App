@@ -5,13 +5,13 @@ This website is a social media platform that resembles Twitter, developed using 
 
 ### Website Screenshots
 - Home Page 
-![](screenshots/home.png)
+<img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/home.png">
 
 - User Profile Page
-![](screenshots/profile.png)
+<img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/profile.png">
 
 - Creating Post
-![](screenshots/createpost.png)
+<img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/createpost.png">
 
 Follow these steps to set up and run the project locally.
 
