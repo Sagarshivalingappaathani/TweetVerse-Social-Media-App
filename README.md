@@ -13,6 +13,8 @@ This website is a social media platform that resembles Twitter, developed using 
 - Creating Post
 ![](screenshots/createpost.png)
 
+
+
 Follow these steps to set up and run the project locally.
 
 ### Prerequisites
