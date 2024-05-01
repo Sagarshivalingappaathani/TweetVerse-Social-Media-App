@@ -13,6 +13,8 @@ This website is a social media platform that resembles Twitter, developed using 
 - Creating Post
 <img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/createpost.png">
 
+- ER Diagram of the database schema
+<img src="https://github.com/Sagarshivalingappaathani/TweetVerse-Social-Media-App/blob/main/secreenshots/ER.jpg">
 
 
 Follow these steps to set up and run the project locally.
